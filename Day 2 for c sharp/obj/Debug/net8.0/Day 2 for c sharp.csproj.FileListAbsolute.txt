@@ -1,0 +1,14 @@
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\C# Projects\Day two for c sharp\Day 2 for c sharp\bin\Debug\net8.0\Day 2 for c sharp.exe
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\C# Projects\Day two for c sharp\Day 2 for c sharp\bin\Debug\net8.0\Day 2 for c sharp.deps.json
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\C# Projects\Day two for c sharp\Day 2 for c sharp\bin\Debug\net8.0\Day 2 for c sharp.runtimeconfig.json
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\C# Projects\Day two for c sharp\Day 2 for c sharp\bin\Debug\net8.0\Day 2 for c sharp.dll
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\C# Projects\Day two for c sharp\Day 2 for c sharp\bin\Debug\net8.0\Day 2 for c sharp.pdb
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\C# Projects\Day two for c sharp\Day 2 for c sharp\obj\Debug\net8.0\Day 2 for c sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\C# Projects\Day two for c sharp\Day 2 for c sharp\obj\Debug\net8.0\Day 2 for c sharp.AssemblyInfoInputs.cache
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\C# Projects\Day two for c sharp\Day 2 for c sharp\obj\Debug\net8.0\Day 2 for c sharp.AssemblyInfo.cs
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\C# Projects\Day two for c sharp\Day 2 for c sharp\obj\Debug\net8.0\Day 2 for c sharp.csproj.CoreCompileInputs.cache
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\C# Projects\Day two for c sharp\Day 2 for c sharp\obj\Debug\net8.0\Day 2 for c sharp.dll
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\C# Projects\Day two for c sharp\Day 2 for c sharp\obj\Debug\net8.0\refint\Day 2 for c sharp.dll
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\C# Projects\Day two for c sharp\Day 2 for c sharp\obj\Debug\net8.0\Day 2 for c sharp.pdb
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\C# Projects\Day two for c sharp\Day 2 for c sharp\obj\Debug\net8.0\Day 2 for c sharp.genruntimeconfig.cache
+D:\Ahmed\Computer Science\DEPI\Round 1\Technical .Net Track\C# Projects\Day two for c sharp\Day 2 for c sharp\obj\Debug\net8.0\ref\Day 2 for c sharp.dll
